@@ -1,0 +1,17 @@
+{
+  "summary": {
+    "owner": "Egor Zuev",
+    "title": "local database threat model"
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "title": "local database threat model",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "diagramType": "STRIDE",
+        "id": 0
+      }
+    ]
+  }
+}
